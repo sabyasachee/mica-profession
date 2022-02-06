@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Baruah
+    given-names: Sabyasachee
+  - family-names: Somandepalli
+    given-names: Krishna
+  - family-names: Narayanan
+    given-names: Shrikanth
+title: "Representation of professions in entertainment media"
+version: 1.0
+doi: 10.5281/zenodo.5988721
+date-released: 2022-02-06
